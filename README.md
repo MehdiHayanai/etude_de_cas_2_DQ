@@ -1,5 +1,3 @@
-# etude_de_cas_part2
-Cet Repository a été conçu pour publier le devoir de démarche qualité, intitulé: 
 # Etude de cas 2
 ## Outils et Méthodologies de Résolution des Problèmes
 
