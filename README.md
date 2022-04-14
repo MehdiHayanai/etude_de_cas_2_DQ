@@ -6,9 +6,9 @@
 Ce devoir vise à utiliser les outils et techniques enseignés au niveau du cours de la démarche qualité de l’ENSAM meknès.
 Pour appliquer ces methodes nous avons choisit d'exploiter le langage de programmation python en 
 utilisant les librairies d’analyse de données et data visualisation:<br>
-    * Pandas 
-    * Numpy 
-    * Seaborn
+* Pandas 
+* Numpy 
+* Seaborn
     
 Le but est d'analyser les données et d'utiliser des techniques de résolution de problèmes, d'une chaîne de magasins
 fictive qui livre des produits agroalimentaires frais. Cette chaîne a vu son chiffre d'affaires baisser pendant six mois,
