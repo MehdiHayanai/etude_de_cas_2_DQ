@@ -1,7 +1,10 @@
 # Etude de cas 2
 ## Outils et Méthodologies de Résolution des Problèmes
 
-*Ce repository représente le livrable du devoir de l'élément démarche qualité de l’ENSAM meknès filière GIIADS*
+*Ce repository représente le livrable du devoir de l'élément démarche qualité de l’ENSAM meknès filière GI-IADS*
+réalisé par:
+* Mourad Izem
+* Mehdi Hayani Mechkouri
 
 Ce devoir vise à utiliser les outils et techniques enseignés au niveau du cours de la démarche qualité de l’ENSAM meknès.
 Pour appliquer ces méthodes nous avons choisit d'exploiter Excel et le langage de programmation python en 
